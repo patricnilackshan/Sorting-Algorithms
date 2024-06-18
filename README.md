@@ -1,6 +1,6 @@
 # Sorting-Algorithms
 
-- Bubble Sort
+- Bubble Sort using FOR loop
+- Bubble Sort using WHILE loop
 - Insertion Sort
-- Merge Sort using FOR loop
-- Merge Sort using WHILE loop
+- Merge Sort 
